@@ -17,7 +17,7 @@ Source0:	https://github.com/maxmind/GeoIP2-python/archive/v%{version}.tar.gz
 URL:		http://geoip2.readthedocs.org/en/latest/
 BuildRequires:	libmaxminddb-devel
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 %{?with_doc:BuildRequires:	sphinx-pdg}
 %if %{with python2}
 BuildRequires:	python-devel
