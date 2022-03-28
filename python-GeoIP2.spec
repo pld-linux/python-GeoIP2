@@ -9,7 +9,7 @@
 Summary:	GeoIP2 webservice client and database reader
 Name:		python-%{module}
 Version:	2.1.0
-Release:	1
+Release:	2
 License:	LGPL v2.1
 Group:		Libraries/Python
 Source0:	https://github.com/maxmind/GeoIP2-python/archive/v%{version}.tar.gz
